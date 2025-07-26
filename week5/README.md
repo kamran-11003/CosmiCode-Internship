@@ -7,4 +7,4 @@
 - Set up JWT-based authentication and protect private routes.
 - Use Express Router for modular route handling.
 - Build a dynamic React page to consume data from your Node.js API (axios/fetch).
-- Create a small blogging platform backend with routes for creating, reading, updating, and deleting posts. 
+- Create a small blogging platform backend with routes for creating, reading, updating, and deleting posts.                           
